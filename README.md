@@ -1,4 +1,4 @@
-#Female Employment vs Socio-economic Factors 
+# Female Employment vs Socio-economic Factors 
 This project is driven by a profound commitment to understanding and improving the socio-economic status of women through data analysis. 
 Goal is to provide detailed insights into how various factors influence female employment across different sectors in Bangladesh, using data from surveys, the World Bank, and other global organizations.
 
